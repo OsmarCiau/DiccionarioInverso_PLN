@@ -1,0 +1,8 @@
+{
+    "node_count": 10599,
+    "edge_count": 63768,
+    "average_degree": 12.0328,
+    "connected_components_count": 1,
+    "largest_component_size": 10599,
+    "average_clustering_coefficient": 0.1191
+}
